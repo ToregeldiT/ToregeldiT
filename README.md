@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ToregeldiT
+- 👀 I’m interested in Maths, Coding
+- 🌱 I’m currently learning JS
