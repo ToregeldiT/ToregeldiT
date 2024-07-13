@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ToregeldiT
 - 👀 I’m interested in Maths, Coding
-- ⭐ I started as frontend developer
 - 🌱 I’m currently learning Java
 - 👨‍🎓 I'm 15 years old
-- 👨‍💻 I want to become java developer
+- 👨‍💻 I want to become backend developer
